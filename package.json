@@ -1,0 +1,21 @@
+{
+  "name": "miniapp-electron",
+  "version": "1.0.0",
+  "description": "小程序的宿主环境提供",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "miniapp",
+    "miniprogram",
+    "react",
+    "Electron"
+  ],
+  "author": "YufJ",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
+}
