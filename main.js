@@ -40,7 +40,7 @@ function addView(parent) {
     height: 667
   });
   // view.webContents.loadFile('miniapp/render/index.html');
-  view.webContents.loadURL('file:///Users/jiyufeng/Documents/demo/miniapp-desktop/miniapp/render/index.html#pages/index/index')
+  view.webContents.loadURL('file:///Users/xxx/Documents/demo/miniapp-desktop/miniapp/render/index.html#pages/index/index')
 
   view.webContents.openDevTools();
 }
